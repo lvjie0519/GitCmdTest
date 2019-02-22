@@ -1,4 +1,1 @@
-*/.vscode/
-.vscode
-# iOS 本地拆包
-ios_local.js
+.idea/
